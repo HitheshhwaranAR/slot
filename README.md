@@ -1,5 +1,5 @@
 # Ex03 Time Table
-## Date:
+## Date:09.04.2025
 
 ## AIM
 To write a html webpage page to display your slot timetable.
@@ -28,12 +28,12 @@ Execute the program using runserver command.
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Slot Time Table - YOUR NAME</title>
+    <title>Slot Time Table - HITHESHHWARAN A R(212224040118)</title>
 </head>
 <body>
-    <IMG SRC="PASTE THE IMAGE SOURCE"HEIGHT="1500"WIDTH="1500"BORDER=6>
+    <IMG SRC="logo.png"HEIGHT="100"WIDTH="500"BORDER=6>
     <h2>Saveetha Engineering College</h2>
-    <h3>SLOT TIME TABLE - YOUR-NAME</h3>
+    <h3>SLOT TIME TABLE - HITHESHHWARAN A R(212224040118)</h3>
 
     <table border="1">
         <tr BGCOLOR="YELLOW">
